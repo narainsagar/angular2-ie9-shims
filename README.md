@@ -26,4 +26,4 @@ OR
 
 ## License
 
-MIT in [LICENSE](/narainsagar/angular2-ie9-shims/LICENSE) file.
+MIT in [LICENSE](/LICENSE) file.
