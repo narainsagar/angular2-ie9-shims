@@ -26,7 +26,7 @@ $ npm install angular2-IE9-shims
 
 ## Use
 
-Add a <script> to your `index.html`:
+Add a `<script>` to your `index.html`:
 
 ```html
   <script src="/path/to/angular2-ie9-shims/shims_for_IE.dev.js"></script>
