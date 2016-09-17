@@ -1,6 +1,6 @@
 
 /*
-  Pulled from: https://npmcdn.com/angular2@2.0.0-beta.17/es6/dev/src/testing/shims_for_IE.js
+  Pulled from: https://unpkg.com/angular2@2.0.0-beta.17/es6/dev/src/testing/shims_for_IE.js
   It is only a temporary workaround for now, We need to re-evaluate this until the underlying libraries are fixed 
   to include this polyfill(s).
 */

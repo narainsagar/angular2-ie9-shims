@@ -7,7 +7,7 @@ Shims to make angular2 RC1 app work on IE9(+)
 
 - the cdn:
 
-`https://npmcdn.com/angular2@2.0.0-beta.17/es6/dev/src/testing/shims_for_IE.js`
+`https://unpkg.com/angular2@2.0.0-beta.17/es6/dev/src/testing/shims_for_IE.js`
 
 - or the package:
 
