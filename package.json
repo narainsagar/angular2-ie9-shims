@@ -1,7 +1,7 @@
 {
   "name": "angular2-ie9-shims",
-  "description": "Shims to make angular2 RC1 module app work on IE9(+)",
-  "version": "0.0.1",
+  "description": "Shims to make angular2 app work on IE9(+)",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/narainsagar/angular2-ie9-shims.git"
