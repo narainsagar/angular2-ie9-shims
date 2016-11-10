@@ -1,0 +1,18 @@
+{
+    "name": "angular2-ie9-shims",
+    "version": "0.0.2",
+    "description": "Shims to make angular2 app work on IE9(+)",
+    "main": "",
+    "authors": [
+        "Narain Sagar <narainmenghwar@gmail.com> (http://narainsagar.com)"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/narainsagar/angular2-ie9-shims",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
