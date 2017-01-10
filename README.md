@@ -28,13 +28,13 @@ You can install this package with `npm`, `bower` or manually [download as zip](h
 ## Install via `npm`
 
 ```
-$ npm install angular2-IE9-shims
+$ npm install angular2-ie9-shims
 ```
 
 ## Install via `bower`
 
 ```
-$ bower install angular2-IE9-shims
+$ bower install angular2-ie9-shims
 ```
 
 
